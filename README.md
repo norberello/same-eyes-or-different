@@ -18,17 +18,15 @@ Examples:
 library(openintro)
 table(assortive_mating)
 ```
-<form>
 
-<input type=”text” style=”background-color:aqua”>
+div {
+  background: rgba(0, 128, 0, 0.3) /* Green background with 30% opacity */
+}
 
-</form>
 ```
          blue brown green
   blue    78    23    13
   brown   19    23    12
   green   11     9    16
-```
-```{r df-drop-ok, class.source="bg-success"}
-mtcars[1:5, "mpg", drop = FALSE]
-```
+````
+
