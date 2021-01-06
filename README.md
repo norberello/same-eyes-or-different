@@ -16,6 +16,21 @@ Examples:
 
 ```{r}
 library(openintro)
-str(assortive_mating)
 table(assortive_mating)
+```
+         
+```diff
+#         blue brown green
+#  blue    78    23    13
+#  brown   19    23    12
+#  green   11     9    16
+```
+![Optional Text](../master/myFolder/image.png)
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
 ```
