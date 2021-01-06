@@ -19,7 +19,7 @@ library(openintro)
 table(assortive_mating)
 ```
 
-```background = 'red'
+```{background-color: red;}
       blue brown green
   blue    78    23    13
   brown   19    23    12
