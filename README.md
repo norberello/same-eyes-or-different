@@ -18,7 +18,11 @@ Examples:
 library(openintro)
 table(assortive_mating)
 ```
+<form>
 
+<input type=”text” style=”background-color:aqua”>
+
+</form>
 ```
          blue brown green
   blue    78    23    13
