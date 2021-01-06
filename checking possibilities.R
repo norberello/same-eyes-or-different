@@ -20,6 +20,11 @@ library(gmodels)
 CrossTable(assortive_mating$self_male,assortive_mating$partner_female, prop.t = FALSE, 
            prop.r = FALSE, prop.c = FALSE, expected = TRUE, resid = TRUE, sresid = TRUE, 
            format = "SPSS")
+?CrossTable
+
+CrossTable(assortive_mating$self_male,assortive_mating$partner_female, prop.t = FALSE, 
+           prop.r = FALSE, prop.c = FALSE, expected = TRUE, resid = TRUE, sresid = TRUE, 
+           format = "SAS")
 
 library("corrplot")
 corrplot(x.out$stdres, type="upper",

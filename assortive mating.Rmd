@@ -22,7 +22,9 @@ tab.partners
 
 ```{r}
 library(ggplot2)
-ggplot(assortive_mating, aes(x = self_male, fill = partner_female)) + geom_bar()+theme_bw()
+ggplot(assortive_mating, aes(x = self_male, fill = partner_female)) + geom_bar()+theme_bw()+ 
+scale_fill_manual("eye color of girlfriend", values = c("blue" = "light blue", "brown" = "brown", "green" = "dark green"))+
+  xlab("eye color of man") + ylab("count of individuals")
 ```
 
 ```{r}
