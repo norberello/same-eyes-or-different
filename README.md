@@ -16,6 +16,16 @@ Examples:
 
 ```{r}
 library(openintro)
-str(assortive_mating)
 table(assortive_mating)
 ```
+
+---
+          blue brown green
+  blue    78    23    13
+  brown   19    23    12
+  green   11     9    16
+
+---
+
+
+
