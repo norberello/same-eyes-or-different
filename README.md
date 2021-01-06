@@ -18,7 +18,13 @@ Examples:
 library(openintro)
 table(assortive_mating)
 ```
-
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 <font color="green">  
          
 ```
