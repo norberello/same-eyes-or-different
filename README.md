@@ -20,15 +20,8 @@ table(assortive_mating)
 ```
 
 <body style="background-color:yellow;">
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-
-```{background-color: red;}
-      blue brown green
+         blue brown green
   blue    78    23    13
   brown   19    23    12
   green   11     9    16
-```
+</body>
