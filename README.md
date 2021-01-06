@@ -25,3 +25,6 @@ table(assortive_mating)
   brown   19    23    12
   green   11     9    16
 ```
+```{r df-drop-ok, class.source="bg-success"}
+mtcars[1:5, "mpg", drop = FALSE]
+```
