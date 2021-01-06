@@ -30,7 +30,7 @@ Output:
 #  brown   19    23    12
 #  green   11     9    16
 ```
-![Optional Text](plots/000007.png)
+![Optional Text](plots/000007b.png)
 
 Pearson's Chi-squared test 
 ------------------------------------------------------------
