@@ -44,3 +44,4 @@ Chi^2 =  33.70218     d.f. =  4     p =  8.576896e-07
 # text in gray
 @@ text in purple (and bold)@@
 ```
+<https://rpubs.com/norberello/710492>
