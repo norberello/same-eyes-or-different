@@ -25,7 +25,7 @@ table(assortive_mating)
   brown   19    23    12
   green   11     9    16
 ```
-
+![Optional Text](../master/myFolder/image.png)
 
 ```diff
 - text in red
