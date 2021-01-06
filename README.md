@@ -1,10 +1,23 @@
 # Eye color of couples
 
-**Description**: Colors of the eye colors of male and female partners. A data frame with 204 observations on the following 2 variables.
+**Description**: 
 
-[ ] self_male: a factor with levels 'blue', 'brown', and 'green'
+<p>Colors of the eye colors of male and female partners. A data frame with 204 observations on the following 2 variables.:</p>
 
-[ ] partner_female: a factor with 'blue', 'brown', and 'green'
+<div>
+  <input type="checkbox" id="self_male: a factor with levels 'blue', 'brown', and 'green'" name="self_male: a factor with levels 'blue', 'brown', and 'green'"
+         checked>
+  <label for="self_male: a factor with levels 'blue', 'brown', and 'green'">Scales</label>
+</div>
+
+<div>
+  <input type="checkbox" id="partner_female: a factor with 'blue', 'brown', and 'green'" name="partner_female: a factor with 'blue', 'brown', and 'green'">
+  <label for="partner_female: a factor with 'blue', 'brown', and 'green'">Horns</label>
+</div>
+
+self_male: a factor with levels 'blue', 'brown', and 'green'
+
+partner_female: a factor with 'blue', 'brown', and 'green'
 
 **Source**
 
@@ -16,4 +29,4 @@ Examples:
 library(openintro)
 str(assortive_mating)
 table(assortive_mating)
-``
+```
