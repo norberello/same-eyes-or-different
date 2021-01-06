@@ -15,17 +15,9 @@ B. Laeng et al. Why do blue-eyed men prefer women with the same eye color? In: B
 Examples:
 
 ```{r}
-library(openintro)
-table(assortive_mating)
+- library(openintro)
+- table(assortive_mating)
 ```
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-<font color="green">  
          
 ```
          blue brown green
@@ -33,4 +25,12 @@ table(assortive_mating)
   brown   19    23    12
   green   11     9    16
 ```
-</font>
+
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
