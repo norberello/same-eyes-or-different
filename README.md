@@ -19,7 +19,7 @@ library(openintro)
 table(assortive_mating)
 ```
 
-<body style="background-color:powderblue;">
+<body style="background-color:yellow;">
 
 <h1>This is a heading</h1>
 <p>This is a paragraph.</p>
