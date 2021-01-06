@@ -18,8 +18,10 @@ Examples:
 library(openintro)
 table(assortive_mating)
 ```
-##        
-##         blue brown green
-##   blue    78    23    13
-##   brown   19    23    12
-##   green   11     9    16
+
+```
+      blue brown green
+  blue    78    23    13
+  brown   19    23    12
+  green   11     9    16
+```
