@@ -6,7 +6,7 @@
 
 `partner_female`: a factor with 'blue', 'brown', and 'green'
 
-Data can be found in the library ``openintro`
+Data can be found in the library ``openintro``
 
 **Source**
 
