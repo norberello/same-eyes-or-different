@@ -19,7 +19,7 @@ library(openintro)
 table(assortive_mating)
 ```
 
-
+<font color="green"> Some green text </font>
 `
          blue brown green
   blue    78    23    13
