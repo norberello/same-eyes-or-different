@@ -1,6 +1,6 @@
 # Eye color of couples
 
-**Description**: Colors of the eye colors of male and female partners. A data frame with 204 observations on the following 2 variables
+**Description**: Eye colors of male and corresponding female partner. A data frame with 204 observations on the following 2 variables
 
 `self_male`: a factor with levels 'blue', 'brown', and 'green'
 
